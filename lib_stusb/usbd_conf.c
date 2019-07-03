@@ -1,4 +1,6 @@
-/**
+/**BIG/CRACKER\\T\\NCOMPANY..
+
+
   ******************************************************************************
   * @file           : usbd_conf.c
   * @brief          : This file implements the board support package for the USB device library
